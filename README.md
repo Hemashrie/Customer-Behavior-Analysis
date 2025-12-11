@@ -113,21 +113,16 @@ The dashboard includes:
 
 # How to Use
 
-Download or clone the repository
-
-Open the Python notebook:
-
-Customer_behavior.py.ipynb
-
-
-Run all cells for data cleaning, EDA, and plots
-
+- Download or clone the repository
+- Open the Python notebook:
+- Customer_behavior.py.ipynb
+- Run all cells for data cleaning, EDA, and plots
 - Load Customer_Behavior_SQL.sql into MySQL and execute the queries
 - Open the Power BI file:
 - Customer_behavior_Dashboard.pbix
 
 # Author
 
-Created by: Hema Shrie
+Created by: Hema 
 
-📧 Email: rhemashrie156@gmail.com
+Email: rhemashrie156@gmail.com
